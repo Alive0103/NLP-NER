@@ -1,0 +1,515 @@
+[
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "K745型蓝鲨轻型鱼雷",
+        "start": 433,
+        "end": 444,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "SDB",
+        "start": 124,
+        "end": 127,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "SDB",
+        "start": 387,
+        "end": 390,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "SDB",
+        "start": 282,
+        "end": 285,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "SDB",
+        "start": 351,
+        "end": 354,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "SDB",
+        "start": 367,
+        "end": 370,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "SDB",
+        "start": 87,
+        "end": 90,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "BLU-109战斗部",
+        "start": 213,
+        "end": 223,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "重型BLU-109战斗部",
+        "start": 111,
+        "end": 123,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "BLU-109战斗部",
+        "start": 132,
+        "end": 142,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "重型BLU-109战斗部",
+        "start": 356,
+        "end": 368,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "BLU-119钻地战斗部",
+        "start": 13,
+        "end": 25,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "BLU-109战斗部",
+        "start": 250,
+        "end": 260,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "重型BLU-109战斗部",
+        "start": 54,
+        "end": 66,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "重型BLU-109战斗部",
+        "start": 173,
+        "end": 185,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 8,
+        "text": "F21型重型鱼雷",
+        "start": 401,
+        "end": 409,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "ADWS",
+        "start": 420,
+        "end": 424,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 17,
+        "text": "SDB",
+        "start": 37,
+        "end": 40,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "蓝鲨鱼雷",
+        "start": 286,
+        "end": 290,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "MK-50鱼雷",
+        "start": 238,
+        "end": 245,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "新型125毫米履带式坦克歼击车",
+        "start": 21,
+        "end": 36,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "BMD-4步兵战车",
+        "start": 136,
+        "end": 145,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "2S25章鱼-SD自行坦克歼击车",
+        "start": 41,
+        "end": 57,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "BOL系统是一种能携带160个箔条/曳光弹包的先进干扰弹投放器，其携带能力是常规投放器的5倍多。该系统已装备在美国海军F-14熊猫、英国鹞GR7",
+        "start": 320,
+        "end": 392,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "狂风",
+        "start": 393,
+        "end": 395,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 27,
+        "text": "M1A1坦克",
+        "start": 441,
+        "end": 447,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 27,
+        "text": "M1A1坦克",
+        "start": 249,
+        "end": 255,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 31,
+        "text": "JDAM",
+        "start": 91,
+        "end": 95,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "JDAM",
+        "start": 100,
+        "end": 104,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 35,
+        "text": "黑鲨重型鱼雷",
+        "start": 319,
+        "end": 325,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 38,
+        "text": "AGM-154",
+        "start": 18,
+        "end": 25,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 41,
+        "text": "Mk48Mod7",
+        "start": 113,
+        "end": 121,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 47,
+        "text": "装甲M1114",
+        "start": 418,
+        "end": 425,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 47,
+        "text": "FMTV",
+        "start": 324,
+        "end": 328,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 47,
+        "text": "FMTV",
+        "start": 242,
+        "end": 246,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "旗鱼鱼雷",
+        "start": 377,
+        "end": 381,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 49,
+        "text": "Mk54鱼雷",
+        "start": 314,
+        "end": 320,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "M230",
+        "start": 169,
+        "end": 173,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "M261",
+        "start": 174,
+        "end": 178,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 53,
+        "text": "MQ-9A捕食者B",
+        "start": 376,
+        "end": 385,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 54,
+        "text": "Mk46Mod5鱼雷",
+        "start": 149,
+        "end": 159,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 55,
+        "text": "M230丛林之王链式炮",
+        "start": 87,
+        "end": 98,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "制式宝石路GBU-24",
+        "start": 391,
+        "end": 402,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "F-117",
+        "start": 102,
+        "end": 107,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "120毫米XM291坦克炮",
+        "start": 79,
+        "end": 92,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "M829A2穿甲弹",
+        "start": 464,
+        "end": 473,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "120毫米XM291坦克炮",
+        "start": 276,
+        "end": 289,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "105毫米M35坦克炮",
+        "start": 295,
+        "end": 306,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 62,
+        "text": "214级1200型潜艇",
+        "start": 256,
+        "end": 267,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 67,
+        "text": "M270A1MLRS",
+        "start": 347,
+        "end": 357,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 67,
+        "text": "WR-300",
+        "start": 228,
+        "end": 234,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 68,
+        "text": "Mk48重型鱼雷",
+        "start": 96,
+        "end": 104,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 68,
+        "text": "Mk48鱼雷",
+        "start": 180,
+        "end": 186,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 68,
+        "text": "Mk48",
+        "start": 258,
+        "end": 262,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 68,
+        "text": "Mk48",
+        "start": 293,
+        "end": 297,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 68,
+        "text": "Mk48",
+        "start": 401,
+        "end": 405,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 69,
+        "text": "M142海玛斯轮式发射车",
+        "start": 63,
+        "end": 75,
+        "type": "装甲车辆"
+    }
+]

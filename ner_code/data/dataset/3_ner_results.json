@@ -1,0 +1,479 @@
+[
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 1,
+        "text": "布拉莫斯2",
+        "start": 147,
+        "end": 152,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 1,
+        "text": "空射型布拉莫斯",
+        "start": 343,
+        "end": 350,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "载核民兵-3型ICBM",
+        "start": 112,
+        "end": 123,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "班图武士",
+        "start": 85,
+        "end": 89,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "爱国者导弹系统",
+        "start": 294,
+        "end": 301,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 15,
+        "text": "VympelR-33E",
+        "start": 244,
+        "end": 255,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 17,
+        "text": "标枪",
+        "start": 121,
+        "end": 123,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 17,
+        "text": "标枪",
+        "start": 252,
+        "end": 254,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 17,
+        "text": "标枪",
+        "start": 174,
+        "end": 176,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 18,
+        "text": "NSM新型舰载/岸基型",
+        "start": 242,
+        "end": 253,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 18,
+        "text": "NSM空射型导弹",
+        "start": 336,
+        "end": 344,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "勇士",
+        "start": 376,
+        "end": 378,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "爱国者防空导弹系统",
+        "start": 60,
+        "end": 69,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "爱国者防空系统",
+        "start": 268,
+        "end": 275,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "爱国者防空导弹系统",
+        "start": 148,
+        "end": 157,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "爱国者-2防御系统",
+        "start": 388,
+        "end": 397,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 24,
+        "text": "P-800",
+        "start": 387,
+        "end": 392,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "M310灵巧发射器",
+        "start": 246,
+        "end": 255,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "M299",
+        "start": 241,
+        "end": 245,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 28,
+        "text": "苏-30MK",
+        "start": 69,
+        "end": 75,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "F-16",
+        "start": 117,
+        "end": 121,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 30,
+        "text": "AGM-65E2/L",
+        "start": 249,
+        "end": 259,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "多尔－－M1",
+        "start": 83,
+        "end": 89,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "多尔－－M1",
+        "start": 328,
+        "end": 334,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "多尔－－M1",
+        "start": 335,
+        "end": 341,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "多尔－－M1",
+        "start": 384,
+        "end": 390,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 34,
+        "text": "康士伯/雷神国家先进面对空导弹系统",
+        "start": 111,
+        "end": 128,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 38,
+        "text": "舰载型响尾蛇",
+        "start": 304,
+        "end": 310,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 38,
+        "text": "响尾蛇NG",
+        "start": 286,
+        "end": 291,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 41,
+        "text": "Mk41",
+        "start": 302,
+        "end": 306,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "怪蛇4",
+        "start": 308,
+        "end": 311,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "布拉莫斯海基",
+        "start": 73,
+        "end": 79,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "50MX和平保卫者洲际弹道导弹",
+        "start": 114,
+        "end": 129,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "布拉瓦",
+        "start": 249,
+        "end": 252,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 53,
+        "text": "原始型50MX",
+        "start": 31,
+        "end": 38,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 55,
+        "text": "F-16",
+        "start": 173,
+        "end": 177,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 55,
+        "text": "AIM-9X",
+        "start": 157,
+        "end": 163,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "标枪导弹",
+        "start": 151,
+        "end": 155,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "标枪反坦克",
+        "start": 40,
+        "end": 45,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 58,
+        "text": "宙斯盾陆上导弹防御系统",
+        "start": 174,
+        "end": 185,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "太脱拉卡车",
+        "start": 167,
+        "end": 172,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "民兵3型",
+        "start": 182,
+        "end": 186,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "民兵3",
+        "start": 252,
+        "end": 255,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 67,
+        "text": "AT-3",
+        "start": 205,
+        "end": 209,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 69,
+        "text": "民兵Ⅲ导弹系统",
+        "start": 74,
+        "end": 81,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 70,
+        "text": "JASSM-ER",
+        "start": 162,
+        "end": 170,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 70,
+        "text": "JASSM-ER",
+        "start": 111,
+        "end": 119,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 70,
+        "text": "JASSM-ER",
+        "start": 338,
+        "end": 346,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 70,
+        "text": "JASSM",
+        "start": 240,
+        "end": 245,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 70,
+        "text": "JASSM",
+        "start": 187,
+        "end": 192,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 71,
+        "text": "IRIS-T",
+        "start": 124,
+        "end": 130,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 74,
+        "text": "F-16CCIP",
+        "start": 231,
+        "end": 239,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 75,
+        "text": "S400防空导弹系统",
+        "start": 318,
+        "end": 328,
+        "type": "装甲车辆"
+    }
+]

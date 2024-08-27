@@ -1,0 +1,2918 @@
+[
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 1,
+        "text": "M1",
+        "start": 167,
+        "end": 169,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 1,
+        "text": "M1000重型装备运输车",
+        "start": 20,
+        "end": 32,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 1,
+        "text": "M1000",
+        "start": 220,
+        "end": 225,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 1,
+        "text": "M1000",
+        "start": 72,
+        "end": 77,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 1,
+        "text": "M1000",
+        "start": 144,
+        "end": 149,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 2,
+        "text": "DT-30PM-T1",
+        "start": 131,
+        "end": 141,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "M113装甲车",
+        "start": 345,
+        "end": 352,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "M113装甲车",
+        "start": 115,
+        "end": 122,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "M113装甲人员输送车",
+        "start": 391,
+        "end": 402,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "M113A2型装甲车",
+        "start": 296,
+        "end": 306,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "M113A2型装甲人员输送车",
+        "start": 31,
+        "end": 45,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "M113装甲车",
+        "start": 78,
+        "end": 85,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "M113装甲车",
+        "start": 154,
+        "end": 161,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "M113A2Mk1",
+        "start": 143,
+        "end": 152,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "M113装甲运兵车",
+        "start": 61,
+        "end": 70,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "M113A1装甲运兵车",
+        "start": 23,
+        "end": 34,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "M113A1",
+        "start": 136,
+        "end": 142,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "M1074联合突击架桥车",
+        "start": 137,
+        "end": 149,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "M1A2主战坦克",
+        "start": 111,
+        "end": 119,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "M1150突击破障车",
+        "start": 123,
+        "end": 133,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "M1A2主战坦克",
+        "start": 62,
+        "end": 70,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "M1A1主战坦克",
+        "start": 354,
+        "end": 362,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "T-90A坦克",
+        "start": 253,
+        "end": 260,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "T-14阿玛塔坦克",
+        "start": 143,
+        "end": 152,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "台风装甲车",
+        "start": 388,
+        "end": 393,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "T-72B3",
+        "start": 240,
+        "end": 246,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "BMPT火力支援车",
+        "start": 224,
+        "end": 233,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "T-80U",
+        "start": 247,
+        "end": 252,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "DT-10PM履带式人员输送车",
+        "start": 176,
+        "end": 191,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "T-72B",
+        "start": 234,
+        "end": 239,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "M1A2",
+        "start": 173,
+        "end": 177,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "布雷德利战车",
+        "start": 141,
+        "end": 147,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "A3型布雷德利战车",
+        "start": 200,
+        "end": 209,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "LAV",
+        "start": 149,
+        "end": 152,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "M1A1",
+        "start": 168,
+        "end": 172,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "布雷德利战车",
+        "start": 180,
+        "end": 186,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "M1A2SEP坦克",
+        "start": 316,
+        "end": 325,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "M1A2",
+        "start": 134,
+        "end": 138,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "布雷德利A3战车",
+        "start": 307,
+        "end": 315,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "M1A2SEP坦克",
+        "start": 210,
+        "end": 219,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "M1A1",
+        "start": 129,
+        "end": 133,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 8,
+        "text": "A2战车",
+        "start": 196,
+        "end": 200,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 8,
+        "text": "M3A2",
+        "start": 177,
+        "end": 181,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 8,
+        "text": "A2步兵战车",
+        "start": 159,
+        "end": 165,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 8,
+        "text": "A2战车",
+        "start": 85,
+        "end": 89,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 8,
+        "text": "M3A2布雷德利战车",
+        "start": 57,
+        "end": 67,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 8,
+        "text": "M2A2",
+        "start": 52,
+        "end": 56,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 9,
+        "text": "125mm滑膛炮T-72系列主战坦克",
+        "start": 48,
+        "end": 66,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 9,
+        "text": "T-72主战坦克",
+        "start": 89,
+        "end": 97,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 9,
+        "text": "左勒菲卡尔主战坦克",
+        "start": 120,
+        "end": 129,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 9,
+        "text": "T-72坦克",
+        "start": 216,
+        "end": 222,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 10,
+        "text": "T-90S主战坦克",
+        "start": 274,
+        "end": 283,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 11,
+        "text": "皮兰哈8×8轻型装甲车",
+        "start": 143,
+        "end": 154,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 11,
+        "text": "M113",
+        "start": 105,
+        "end": 109,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 11,
+        "text": "UDK-2轻型扫雷铲",
+        "start": 374,
+        "end": 384,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 12,
+        "text": "M48坦克",
+        "start": 202,
+        "end": 207,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 12,
+        "text": "K-2主战坦克",
+        "start": 67,
+        "end": 74,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 12,
+        "text": "K-2坦克",
+        "start": 295,
+        "end": 300,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 12,
+        "text": "黑豹主战坦克",
+        "start": 241,
+        "end": 247,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 12,
+        "text": "K-2黑豹主战坦克",
+        "start": 27,
+        "end": 36,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 12,
+        "text": "K-2主战坦克",
+        "start": 145,
+        "end": 152,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 12,
+        "text": "K-1",
+        "start": 193,
+        "end": 196,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "M113AS4履带式装甲人员输送车",
+        "start": 53,
+        "end": 70,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "K21履带式装甲步兵战车",
+        "start": 86,
+        "end": 98,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "AS21红蜘蛛履带式步兵战车",
+        "start": 35,
+        "end": 49,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "KF41",
+        "start": 161,
+        "end": 165,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "AS21红蜘蛛",
+        "start": 71,
+        "end": 78,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "KF41",
+        "start": 170,
+        "end": 174,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "AS21红蜘蛛",
+        "start": 144,
+        "end": 151,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "AS21红蜘蛛",
+        "start": 223,
+        "end": 230,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "VBCI8×8装甲步兵战车",
+        "start": 55,
+        "end": 68,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "VBCI",
+        "start": 69,
+        "end": 73,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "VBCI",
+        "start": 128,
+        "end": 132,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "VBCI步兵战车",
+        "start": 221,
+        "end": 229,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "VBCI",
+        "start": 161,
+        "end": 165,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 15,
+        "text": "轻型装甲车",
+        "start": 116,
+        "end": 121,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 15,
+        "text": "M1A1主战坦克",
+        "start": 104,
+        "end": 112,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 16,
+        "text": "M1025A2骑士车",
+        "start": 59,
+        "end": 69,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 17,
+        "text": "GTK",
+        "start": 113,
+        "end": 116,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 17,
+        "text": "MRAV/PVW装甲车",
+        "start": 117,
+        "end": 128,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 18,
+        "text": "艾布拉姆斯M1A2SEP坦克",
+        "start": 82,
+        "end": 96,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 18,
+        "text": "布雷德利M2A3战车",
+        "start": 192,
+        "end": 202,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 18,
+        "text": "艾布拉姆斯M1A2SEP坦克",
+        "start": 215,
+        "end": 229,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 18,
+        "text": "布雷德利M2A3战车",
+        "start": 97,
+        "end": 107,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "AMX-13坦克",
+        "start": 170,
+        "end": 178,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "V-100突击队装甲战车",
+        "start": 185,
+        "end": 197,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "骑兵300",
+        "start": 179,
+        "end": 184,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "AMX-30",
+        "start": 163,
+        "end": 169,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 20,
+        "text": "斯特赖克",
+        "start": 41,
+        "end": 45,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 20,
+        "text": "斯特赖克车",
+        "start": 149,
+        "end": 154,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 20,
+        "text": "斯特赖克",
+        "start": 207,
+        "end": 211,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "M1000",
+        "start": 265,
+        "end": 270,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "M1000",
+        "start": 149,
+        "end": 154,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "M1000",
+        "start": 115,
+        "end": 120,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "M1000",
+        "start": 356,
+        "end": 361,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "M1000重型装备运输车",
+        "start": 52,
+        "end": 64,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "M1000拖车",
+        "start": 91,
+        "end": 98,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "M1系列主战坦克",
+        "start": 176,
+        "end": 184,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "M1000拖车",
+        "start": 328,
+        "end": 335,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "M1000",
+        "start": 259,
+        "end": 264,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "M1152",
+        "start": 276,
+        "end": 281,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "M1151A1B1",
+        "start": 263,
+        "end": 272,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "悍马车",
+        "start": 36,
+        "end": 39,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "悍马车",
+        "start": 151,
+        "end": 154,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "T-14",
+        "start": 197,
+        "end": 201,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "T-14坦克",
+        "start": 120,
+        "end": 126,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "10型坦克",
+        "start": 235,
+        "end": 240,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "T-80",
+        "start": 291,
+        "end": 295,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "T-14阿玛塔新一代坦克",
+        "start": 60,
+        "end": 72,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "T-14",
+        "start": 241,
+        "end": 245,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "K2坦克",
+        "start": 227,
+        "end": 231,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 24,
+        "text": "M65轻型多用途装甲车",
+        "start": 386,
+        "end": 397,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 25,
+        "text": "M1A2艾布拉姆主战坦克",
+        "start": 6,
+        "end": 18,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 25,
+        "text": "M1A2主战坦克",
+        "start": 70,
+        "end": 78,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 25,
+        "text": "M1A2主战坦克",
+        "start": 46,
+        "end": 54,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "布雷德利战车",
+        "start": 46,
+        "end": 52,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "布雷德利战车",
+        "start": 66,
+        "end": 72,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "布雷德利",
+        "start": 235,
+        "end": 239,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "布拉德利",
+        "start": 156,
+        "end": 160,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "布雷德利",
+        "start": 193,
+        "end": 197,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 27,
+        "text": "T-90主战坦克",
+        "start": 280,
+        "end": 288,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 28,
+        "text": "装甲车ICC-201",
+        "start": 43,
+        "end": 53,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 28,
+        "text": "潘德II8x8装甲车",
+        "start": 268,
+        "end": 278,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "M113",
+        "start": 233,
+        "end": 237,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "M113",
+        "start": 308,
+        "end": 312,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "M113装甲人员输送车",
+        "start": 44,
+        "end": 55,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "M113B装甲车",
+        "start": 13,
+        "end": 21,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "M113",
+        "start": 351,
+        "end": 355,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "M113",
+        "start": 334,
+        "end": 338,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "M113B装甲人员输送车",
+        "start": 141,
+        "end": 153,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "M113B",
+        "start": 246,
+        "end": 251,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "M113",
+        "start": 110,
+        "end": 114,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 30,
+        "text": "BMD-4M空降战车",
+        "start": 116,
+        "end": 126,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 30,
+        "text": "BMD-4M",
+        "start": 134,
+        "end": 140,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 30,
+        "text": "BTR-MDM",
+        "start": 141,
+        "end": 148,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 30,
+        "text": "BMD-4M",
+        "start": 191,
+        "end": 197,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 31,
+        "text": "公羊",
+        "start": 169,
+        "end": 171,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 31,
+        "text": "公羊主战坦克",
+        "start": 79,
+        "end": 85,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 31,
+        "text": "公羊主战坦克",
+        "start": 14,
+        "end": 20,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 32,
+        "text": "新型M2A3布雷德利战车",
+        "start": 59,
+        "end": 71,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 32,
+        "text": "布雷德利战车",
+        "start": 130,
+        "end": 136,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "SEPv3",
+        "start": 269,
+        "end": 274,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "艾布拉姆斯",
+        "start": 138,
+        "end": 143,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "艾布拉姆斯",
+        "start": 98,
+        "end": 103,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "新型艾布拉姆斯主战坦克",
+        "start": 191,
+        "end": 202,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "M1A2SEPv3",
+        "start": 69,
+        "end": 78,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "M1A2艾布拉姆斯SEPv3主战坦克",
+        "start": 13,
+        "end": 31,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 34,
+        "text": "新型野猫-A侦察车",
+        "start": 272,
+        "end": 281,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 34,
+        "text": "BRDM-2装甲车",
+        "start": 259,
+        "end": 268,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 35,
+        "text": "M1000重型装备运输车",
+        "start": 148,
+        "end": 160,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 35,
+        "text": "M1000重型装备运输车拖车",
+        "start": 83,
+        "end": 97,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 35,
+        "text": "M1艾布拉姆斯主战坦克",
+        "start": 183,
+        "end": 194,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 35,
+        "text": "M1000重型装备运输车拖车",
+        "start": 38,
+        "end": 52,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 36,
+        "text": "M1117装甲安全车",
+        "start": 208,
+        "end": 218,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 36,
+        "text": "M1200",
+        "start": 245,
+        "end": 250,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 36,
+        "text": "M1200武士装甲车",
+        "start": 223,
+        "end": 233,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 36,
+        "text": "M1200武士装甲车",
+        "start": 23,
+        "end": 33,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 37,
+        "text": "M113A2装甲人员输送车",
+        "start": 18,
+        "end": 31,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 37,
+        "text": "M113型装甲车",
+        "start": 159,
+        "end": 167,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 37,
+        "text": "M113装甲人员输送车",
+        "start": 277,
+        "end": 288,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 38,
+        "text": "两栖装甲车",
+        "start": 154,
+        "end": 159,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 39,
+        "text": "M1A1艾布拉姆斯坦克",
+        "start": 94,
+        "end": 105,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 39,
+        "text": "ASLAV轮式装甲车",
+        "start": 83,
+        "end": 93,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 39,
+        "text": "M88A2重型救援车",
+        "start": 106,
+        "end": 116,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 40,
+        "text": "M2布拉德利步兵战车",
+        "start": 319,
+        "end": 329,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 40,
+        "text": "M2布拉德利步兵战车",
+        "start": 288,
+        "end": 298,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 40,
+        "text": "M113A3",
+        "start": 237,
+        "end": 243,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 40,
+        "text": "M2布拉德利战车",
+        "start": 361,
+        "end": 369,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 41,
+        "text": "M1系列艾布拉姆斯主战坦克",
+        "start": 219,
+        "end": 232,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 41,
+        "text": "M1000重型设备运输拖车",
+        "start": 37,
+        "end": 50,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 41,
+        "text": "M1000重型设备运输拖车",
+        "start": 194,
+        "end": 207,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 41,
+        "text": "M1000重型设备运输拖车",
+        "start": 288,
+        "end": 301,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "潘哈德ERC90F4Sagie6×6装甲卡车",
+        "start": 145,
+        "end": 167,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "EBRC",
+        "start": 34,
+        "end": 38,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "EBRC",
+        "start": 229,
+        "end": 233,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "AMX-10RC6×6装甲卡车",
+        "start": 129,
+        "end": 144,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "AMX-30B2主战坦克",
+        "start": 116,
+        "end": 128,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "EBRC",
+        "start": 89,
+        "end": 93,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "EBRC",
+        "start": 168,
+        "end": 172,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "EBRC",
+        "start": 342,
+        "end": 346,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "勒克莱尔主战坦克",
+        "start": 198,
+        "end": 206,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 43,
+        "text": "ROVIS型战车",
+        "start": 58,
+        "end": 66,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 43,
+        "text": "HMMWV战车",
+        "start": 38,
+        "end": 45,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 43,
+        "text": "ROVIS型战车",
+        "start": 92,
+        "end": 100,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 44,
+        "text": "布雷德利战车",
+        "start": 88,
+        "end": 94,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 44,
+        "text": "布雷德利战车",
+        "start": 177,
+        "end": 183,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 44,
+        "text": "布雷德利战车",
+        "start": 151,
+        "end": 157,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 44,
+        "text": "布雷德利战车",
+        "start": 206,
+        "end": 212,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 44,
+        "text": "M1艾布拉姆斯主战坦克",
+        "start": 58,
+        "end": 69,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 45,
+        "text": "新型布雷德利M2A3步兵战车",
+        "start": 105,
+        "end": 119,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 45,
+        "text": "新型布雷德利M2A3步兵战车",
+        "start": 72,
+        "end": 86,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-90MS",
+        "start": 375,
+        "end": 381,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "B3M",
+        "start": 291,
+        "end": 294,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-72B",
+        "start": 280,
+        "end": 285,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "主战坦克T-90",
+        "start": 384,
+        "end": 392,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "BMP-3步兵战车",
+        "start": 143,
+        "end": 152,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "BTR-82",
+        "start": 154,
+        "end": 160,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-90M主战坦克",
+        "start": 119,
+        "end": 128,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-72B3M主战坦克",
+        "start": 350,
+        "end": 361,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-72B3M",
+        "start": 328,
+        "end": 335,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-72B3M",
+        "start": 212,
+        "end": 219,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-90",
+        "start": 436,
+        "end": 440,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-72B3",
+        "start": 231,
+        "end": 237,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-72M3M",
+        "start": 107,
+        "end": 114,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "主战坦克T-72",
+        "start": 245,
+        "end": 253,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-90MS",
+        "start": 399,
+        "end": 405,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "BTR-82AM装甲人员输送车",
+        "start": 161,
+        "end": 176,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "T-72B4",
+        "start": 223,
+        "end": 229,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 47,
+        "text": "BMPT-72",
+        "start": 272,
+        "end": 279,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 47,
+        "text": "BMPT-72终结者坦克",
+        "start": 255,
+        "end": 267,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 47,
+        "text": "T-90主战坦克",
+        "start": 280,
+        "end": 288,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M88A2",
+        "start": 472,
+        "end": 477,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M88A2",
+        "start": 410,
+        "end": 415,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M88A2大力神修复车",
+        "start": 36,
+        "end": 47,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M88A2",
+        "start": 138,
+        "end": 143,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M88A1",
+        "start": 233,
+        "end": 238,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M88A2",
+        "start": 330,
+        "end": 335,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M88A1",
+        "start": 261,
+        "end": 266,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M88A2",
+        "start": 218,
+        "end": 223,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M88A2",
+        "start": 252,
+        "end": 257,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M1艾布拉姆斯坦克",
+        "start": 204,
+        "end": 213,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "M88A1",
+        "start": 144,
+        "end": 149,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 49,
+        "text": "布雷德利步兵战车",
+        "start": 26,
+        "end": 34,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 49,
+        "text": "M2A3车",
+        "start": 144,
+        "end": 149,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "豹2坦克",
+        "start": 24,
+        "end": 28,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "豹2坦克",
+        "start": 94,
+        "end": 98,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "艾布拉姆斯坦克",
+        "start": 191,
+        "end": 198,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "M1A1艾布拉姆斯主战坦克",
+        "start": 69,
+        "end": 82,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "艾布拉姆斯坦克",
+        "start": 366,
+        "end": 373,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "BPVZ70",
+        "start": 167,
+        "end": 173,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "OT-65侦察车",
+        "start": 174,
+        "end": 182,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "Tatrapan6×6",
+        "start": 231,
+        "end": 242,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "BVP-1",
+        "start": 183,
+        "end": 188,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "BRDM",
+        "start": 162,
+        "end": 166,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "BVP-2步兵战车",
+        "start": 189,
+        "end": 198,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "8×8装甲全地形车",
+        "start": 243,
+        "end": 252,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "OT-64",
+        "start": 206,
+        "end": 211,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "OT-90",
+        "start": 200,
+        "end": 205,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 53,
+        "text": "A3型布雷德利",
+        "start": 39,
+        "end": 46,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 53,
+        "text": "A3型布雷德利战车",
+        "start": 195,
+        "end": 204,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 53,
+        "text": "布雷德利战车",
+        "start": 174,
+        "end": 180,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 53,
+        "text": "A3型布雷德利",
+        "start": 76,
+        "end": 83,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 54,
+        "text": "装甲增强型M1114悍马车",
+        "start": 109,
+        "end": 122,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 55,
+        "text": "AAV7Amtracs水陆两栖攻击车",
+        "start": 63,
+        "end": 81,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 55,
+        "text": "AAV7?;栖?;",
+        "start": 158,
+        "end": 167,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "PT-91主战坦克",
+        "start": 249,
+        "end": 258,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "PT-91主战坦克",
+        "start": 205,
+        "end": 214,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "PT-91主战坦克",
+        "start": 183,
+        "end": 192,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "T-72",
+        "start": 168,
+        "end": 172,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "M-84",
+        "start": 178,
+        "end": 182,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "PT-91主战坦克",
+        "start": 45,
+        "end": 54,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "T-90",
+        "start": 173,
+        "end": 177,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "PT-91主战坦克",
+        "start": 109,
+        "end": 118,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "PT-91主战坦克",
+        "start": 81,
+        "end": 90,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "AAAV",
+        "start": 178,
+        "end": 182,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "MV-22",
+        "start": 183,
+        "end": 188,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "LCAC",
+        "start": 173,
+        "end": 177,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 58,
+        "text": "艾布拉姆斯M1A2SEPv3坦克",
+        "start": 252,
+        "end": 268,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 58,
+        "text": "M1A2SEPv3",
+        "start": 118,
+        "end": 127,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 58,
+        "text": "M1A1艾布拉姆斯坦克",
+        "start": 104,
+        "end": 115,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 58,
+        "text": "M1A2SEPv3型",
+        "start": 48,
+        "end": 58,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 58,
+        "text": "M1A2SEPv3",
+        "start": 130,
+        "end": 139,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 58,
+        "text": "M1A1艾布拉姆斯主战坦克",
+        "start": 28,
+        "end": 41,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "M1A1",
+        "start": 177,
+        "end": 181,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "M1A2",
+        "start": 182,
+        "end": 186,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "豹2",
+        "start": 174,
+        "end": 176,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "半人马座2",
+        "start": 301,
+        "end": 306,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 60,
+        "text": "艾布拉姆斯坦克",
+        "start": 226,
+        "end": 233,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 60,
+        "text": "M1A2艾布拉姆斯SEPv2主战坦克",
+        "start": 33,
+        "end": 51,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 60,
+        "text": "艾布拉姆斯坦克",
+        "start": 106,
+        "end": 113,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 61,
+        "text": "99式主战坦克",
+        "start": 42,
+        "end": 49,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 63,
+        "text": "M2A3型布雷德利战车",
+        "start": 228,
+        "end": 239,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "ASV",
+        "start": 168,
+        "end": 171,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "ASV",
+        "start": 228,
+        "end": 231,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "斯巴达人系列装甲人员输送车",
+        "start": 313,
+        "end": 326,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "M113",
+        "start": 297,
+        "end": 301,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 65,
+        "text": "64式",
+        "start": 97,
+        "end": 100,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 65,
+        "text": "艾布拉姆斯M1A2主战坦克",
+        "start": 10,
+        "end": 23,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 65,
+        "text": "M1A1",
+        "start": 111,
+        "end": 115,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 65,
+        "text": "CM11",
+        "start": 83,
+        "end": 87,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 65,
+        "text": "艾布拉姆斯M1A2",
+        "start": 101,
+        "end": 110,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 65,
+        "text": "M60A3",
+        "start": 73,
+        "end": 78,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 65,
+        "text": "M1A2",
+        "start": 161,
+        "end": 165,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 66,
+        "text": "v2型坦克",
+        "start": 104,
+        "end": 109,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 66,
+        "text": "v2型主战坦克",
+        "start": 280,
+        "end": 287,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 66,
+        "text": "M1A2SEPv1",
+        "start": 94,
+        "end": 103,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 66,
+        "text": "艾布拉姆斯主战坦克",
+        "start": 47,
+        "end": 56,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 66,
+        "text": "艾布拉姆斯SEPv1",
+        "start": 269,
+        "end": 279,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 66,
+        "text": "M1A2SEP坦克",
+        "start": 230,
+        "end": 239,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 67,
+        "text": "OSTS-MBT",
+        "start": 185,
+        "end": 193,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 67,
+        "text": "M551谢里登轻型坦克",
+        "start": 285,
+        "end": 296,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 67,
+        "text": "OSTS-MBT",
+        "start": 273,
+        "end": 281,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 68,
+        "text": "M1151顶置装甲车",
+        "start": 101,
+        "end": 111,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 69,
+        "text": "M1A2艾布拉姆主战坦克",
+        "start": 57,
+        "end": 69,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 70,
+        "text": "履带式发射车",
+        "start": 253,
+        "end": 259,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 70,
+        "text": "履带式自行发射车",
+        "start": 87,
+        "end": 95,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 71,
+        "text": "M113式装甲人员输送车",
+        "start": 357,
+        "end": 369,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 71,
+        "text": "M113式装甲人员输送车",
+        "start": 231,
+        "end": 243,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 72,
+        "text": "非洲小狐侦察车",
+        "start": 345,
+        "end": 352,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 72,
+        "text": "非洲小狐JFST1A3+",
+        "start": 65,
+        "end": 77,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 72,
+        "text": "非洲小狐侦察车",
+        "start": 36,
+        "end": 43,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 72,
+        "text": "非洲小狐",
+        "start": 268,
+        "end": 272,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 73,
+        "text": "M113式装甲人员输送车",
+        "start": 69,
+        "end": 81,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 73,
+        "text": "M113装甲人员输送车",
+        "start": 166,
+        "end": 177,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 74,
+        "text": "轮式侦察车",
+        "start": 94,
+        "end": 99,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 74,
+        "text": "M11轮式侦察车",
+        "start": 14,
+        "end": 22,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 74,
+        "text": "M11轮式侦察车",
+        "start": 128,
+        "end": 136,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 74,
+        "text": "轮式侦察车",
+        "start": 50,
+        "end": 55,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 74,
+        "text": "VBL2L侦察车",
+        "start": 81,
+        "end": 89,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 74,
+        "text": "VBLMk2轮式侦察车",
+        "start": 237,
+        "end": 248,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 75,
+        "text": "防地雷反伏击车",
+        "start": 72,
+        "end": 79,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 75,
+        "text": "MRAP车",
+        "start": 218,
+        "end": 223,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 76,
+        "text": "BOV轻型装甲车",
+        "start": 181,
+        "end": 189,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 76,
+        "text": "BVPM-80AB1履带式步兵战车",
+        "start": 194,
+        "end": 211,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 77,
+        "text": "M113装甲车",
+        "start": 66,
+        "end": 73,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 78,
+        "text": "AAV7A1两栖突击车",
+        "start": 248,
+        "end": 259,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 78,
+        "text": "AAV7A1两栖突击车",
+        "start": 194,
+        "end": 205,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 78,
+        "text": "AAV7RA1",
+        "start": 346,
+        "end": 353,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 78,
+        "text": "AAV7A1",
+        "start": 393,
+        "end": 399,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 78,
+        "text": "AAV7PA1",
+        "start": 320,
+        "end": 327,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 78,
+        "text": "AAV7CA1",
+        "start": 333,
+        "end": 340,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 78,
+        "text": "LVTP7",
+        "start": 306,
+        "end": 311,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 78,
+        "text": "AAV7A1",
+        "start": 409,
+        "end": 415,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 78,
+        "text": "远征战车",
+        "start": 11,
+        "end": 15,
+        "type": "装甲车辆"
+    }
+]

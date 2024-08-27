@@ -1,0 +1,911 @@
+[
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 2,
+        "text": "台风级德米特里・东斯科伊号潜艇",
+        "start": 129,
+        "end": 144,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 2,
+        "text": "北风级尤里・多尔戈鲁基号潜艇",
+        "start": 159,
+        "end": 173,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 2,
+        "text": "德尔塔-IV级潜艇",
+        "start": 249,
+        "end": 258,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 2,
+        "text": "新型北风级战略潜艇",
+        "start": 207,
+        "end": 216,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "45型勇敢级驱逐舰",
+        "start": 29,
+        "end": 38,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "K130型轻护舰",
+        "start": 30,
+        "end": 38,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 5,
+        "text": "风暴级快速攻击艇",
+        "start": 375,
+        "end": 383,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "DD-21",
+        "start": 236,
+        "end": 241,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "DD-21",
+        "start": 418,
+        "end": 423,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "DD-21对陆攻击驱逐舰",
+        "start": 79,
+        "end": 91,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 6,
+        "text": "DD-21",
+        "start": 383,
+        "end": 388,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "海马UUV",
+        "start": 305,
+        "end": 310,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "海行者UUV",
+        "start": 279,
+        "end": 285,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 7,
+        "text": "海行者UUV",
+        "start": 266,
+        "end": 272,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 10,
+        "text": "45型驱逐舰",
+        "start": 27,
+        "end": 33,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 10,
+        "text": "45型驱逐舰",
+        "start": 68,
+        "end": 74,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 11,
+        "text": "26型全球战斗舰",
+        "start": 42,
+        "end": 50,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 12,
+        "text": "维克拉姆帝亚号",
+        "start": 235,
+        "end": 242,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "保卫者号驱逐舰",
+        "start": 426,
+        "end": 433,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "新一代45型保卫者号",
+        "start": 268,
+        "end": 278,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "45型驱逐舰",
+        "start": 297,
+        "end": 303,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "戴高乐航母",
+        "start": 234,
+        "end": 239,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "地平线防空护卫舰",
+        "start": 286,
+        "end": 294,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 15,
+        "text": "果敢级45型驱逐舰",
+        "start": 121,
+        "end": 130,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 17,
+        "text": "45型驱逐舰",
+        "start": 331,
+        "end": 337,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 17,
+        "text": "钻石号驱逐舰",
+        "start": 400,
+        "end": 406,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 17,
+        "text": "26型护卫舰",
+        "start": 304,
+        "end": 310,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "沃斯堡号",
+        "start": 436,
+        "end": 440,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "索芬号",
+        "start": 224,
+        "end": 227,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "哈利法克斯级护卫舰",
+        "start": 12,
+        "end": 21,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "Sea1000型潜艇",
+        "start": 472,
+        "end": 482,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "F-104",
+        "start": 373,
+        "end": 378,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 24,
+        "text": "柴电潜艇顿河畔罗斯托夫号",
+        "start": 3,
+        "end": 15,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 24,
+        "text": "1号艇新罗西斯克号",
+        "start": 84,
+        "end": 93,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 24,
+        "text": "基洛级阿尔罗萨号",
+        "start": 250,
+        "end": 258,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 25,
+        "text": "K-159核潜艇",
+        "start": 367,
+        "end": 375,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 27,
+        "text": "弗吉尼亚级潜艇",
+        "start": 130,
+        "end": 137,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 28,
+        "text": "MPF/UB-40型通用艇",
+        "start": 26,
+        "end": 39,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 28,
+        "text": "LCM-8机械化登陆艇",
+        "start": 102,
+        "end": 113,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "新型曼塔级作战快艇",
+        "start": 8,
+        "end": 17,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "DDG51驱逐舰",
+        "start": 85,
+        "end": 93,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "DDG51阿利・伯克级驱逐舰",
+        "start": 40,
+        "end": 54,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "阿利・伯克级特拉克斯顿号",
+        "start": 383,
+        "end": 395,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "阿利・伯克级驱逐舰",
+        "start": 158,
+        "end": 167,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 34,
+        "text": "美国乔治・华盛顿航空母舰",
+        "start": 250,
+        "end": 262,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 36,
+        "text": "212型潜艇",
+        "start": 220,
+        "end": 226,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 37,
+        "text": "941工程潜艇DmitriyDonskoy号",
+        "start": 72,
+        "end": 94,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 37,
+        "text": "955工程Borey级弹道导弹潜艇",
+        "start": 352,
+        "end": 369,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 37,
+        "text": "DmitriyDonskoy号潜艇",
+        "start": 180,
+        "end": 197,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 38,
+        "text": "科本级",
+        "start": 186,
+        "end": 189,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 39,
+        "text": "阿尔汉格尔斯克号",
+        "start": 29,
+        "end": 37,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 40,
+        "text": "MVPolarbjorn号",
+        "start": 159,
+        "end": 172,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 40,
+        "text": "MVPolarbjorn号",
+        "start": 132,
+        "end": 145,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 40,
+        "text": "MVPolarbjorn号",
+        "start": 32,
+        "end": 45,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 40,
+        "text": "MVPolarbjorn",
+        "start": 98,
+        "end": 110,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 40,
+        "text": "斯科特号",
+        "start": 228,
+        "end": 232,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 43,
+        "text": "首级KDX-II护卫舰",
+        "start": 79,
+        "end": 90,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 43,
+        "text": "KDX-2型多任务护卫舰",
+        "start": 20,
+        "end": 32,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 43,
+        "text": "首级LPX两栖攻击舰",
+        "start": 33,
+        "end": 43,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 44,
+        "text": "BlockI船",
+        "start": 375,
+        "end": 382,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 47,
+        "text": "贾马兰级驱逐舰",
+        "start": 24,
+        "end": 31,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 47,
+        "text": "贾马兰级驱逐舰",
+        "start": 59,
+        "end": 66,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "库尔斯克号潜艇",
+        "start": 357,
+        "end": 364,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 48,
+        "text": "库尔斯克号潜艇",
+        "start": 262,
+        "end": 269,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "LCX",
+        "start": 60,
+        "end": 63,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "LCA",
+        "start": 47,
+        "end": 50,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "LCX",
+        "start": 268,
+        "end": 271,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "LCX",
+        "start": 324,
+        "end": 327,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "LCA",
+        "start": 230,
+        "end": 233,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "SMX26",
+        "start": 327,
+        "end": 332,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "SMX26",
+        "start": 155,
+        "end": 160,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "SMX26",
+        "start": 117,
+        "end": 122,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "SMX26",
+        "start": 222,
+        "end": 227,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "SMX26",
+        "start": 255,
+        "end": 260,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "SMX26",
+        "start": 76,
+        "end": 81,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "CVNX-1",
+        "start": 210,
+        "end": 216,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "CVNX级航母",
+        "start": 242,
+        "end": 249,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "CVNX航母",
+        "start": 272,
+        "end": 278,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "CVNX-2",
+        "start": 227,
+        "end": 233,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "尼米兹级航母",
+        "start": 255,
+        "end": 261,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "CVNX-2",
+        "start": 167,
+        "end": 173,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "尼米兹级航母",
+        "start": 378,
+        "end": 384,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "CVNX-1",
+        "start": 428,
+        "end": 434,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "尼米兹级航母",
+        "start": 263,
+        "end": 269,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "CVNX-1航母",
+        "start": 353,
+        "end": 361,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 53,
+        "text": "新罗西斯克号",
+        "start": 77,
+        "end": 83,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 54,
+        "text": "先锋号联合高速船",
+        "start": 43,
+        "end": 51,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "209型潜艇",
+        "start": 208,
+        "end": 214,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "孔拉多・雅浦号",
+        "start": 201,
+        "end": 208,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 60,
+        "text": "弗吉尼亚级潜艇新墨西哥号",
+        "start": 111,
+        "end": 123,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 61,
+        "text": "萨菲纳导弹驱逐舰",
+        "start": 174,
+        "end": 182,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 62,
+        "text": "DD-21驱逐舰",
+        "start": 101,
+        "end": 109,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 62,
+        "text": "DD-21",
+        "start": 358,
+        "end": 363,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 62,
+        "text": "DD-21",
+        "start": 288,
+        "end": 293,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 62,
+        "text": "DD-21",
+        "start": 446,
+        "end": 451,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 63,
+        "text": "212A型艇",
+        "start": 238,
+        "end": 244,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 70,
+        "text": "弗吉尼亚级潜艇BlockIII型",
+        "start": 202,
+        "end": 218,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 71,
+        "text": "地平线级护卫舰",
+        "start": 214,
+        "end": 221,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 74,
+        "text": "P-17A隐形护卫舰",
+        "start": 207,
+        "end": 217,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 74,
+        "text": "克里瓦克IV级护卫舰",
+        "start": 176,
+        "end": 186,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 74,
+        "text": "P-17塔尔瓦级护卫舰",
+        "start": 36,
+        "end": 47,
+        "type": "装甲车辆"
+    }
+]

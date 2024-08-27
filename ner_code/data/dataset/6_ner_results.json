@@ -1,0 +1,1145 @@
+[
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 1,
+        "text": "STPSat-6卫星",
+        "start": 288,
+        "end": 298,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 1,
+        "text": "空间试验计划卫星STPSat-6",
+        "start": 207,
+        "end": 223,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "GPSIII",
+        "start": 333,
+        "end": 339,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 3,
+        "text": "GPS星座",
+        "start": 263,
+        "end": 268,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 4,
+        "text": "奋进号",
+        "start": 64,
+        "end": 67,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 8,
+        "text": "NROL-44火箭",
+        "start": 109,
+        "end": 118,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 9,
+        "text": "着陆器样机MTV-1X",
+        "start": 235,
+        "end": 246,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 9,
+        "text": "宇宙神火箭",
+        "start": 110,
+        "end": 115,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 11,
+        "text": "X-33",
+        "start": 135,
+        "end": 139,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 11,
+        "text": "X-33",
+        "start": 306,
+        "end": 310,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 11,
+        "text": "X-33",
+        "start": 218,
+        "end": 222,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 12,
+        "text": "GPSIII",
+        "start": 207,
+        "end": 213,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 13,
+        "text": "战神火箭",
+        "start": 118,
+        "end": 122,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "猎鹰9号火箭",
+        "start": 157,
+        "end": 163,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 14,
+        "text": "猎鹰9号火箭",
+        "start": 96,
+        "end": 102,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 15,
+        "text": "宇宙神-5火箭",
+        "start": 116,
+        "end": 123,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 15,
+        "text": "宇宙神-5火箭",
+        "start": 244,
+        "end": 251,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 15,
+        "text": "宇宙神5-551型火箭",
+        "start": 190,
+        "end": 201,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 15,
+        "text": "宇宙神-5火箭",
+        "start": 72,
+        "end": 79,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 15,
+        "text": "德尔它-4火箭",
+        "start": 98,
+        "end": 105,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 16,
+        "text": "米诺陶-4运载火箭",
+        "start": 135,
+        "end": 144,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 18,
+        "text": "银河4卫星",
+        "start": 286,
+        "end": 291,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "德尔它-2火箭",
+        "start": 280,
+        "end": 287,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "德尔它-2火箭",
+        "start": 303,
+        "end": 310,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "德尔它-2火箭",
+        "start": 411,
+        "end": 418,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "德尔它-2火箭",
+        "start": 225,
+        "end": 232,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 19,
+        "text": "德尔它-2运载火箭",
+        "start": 5,
+        "end": 14,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 21,
+        "text": "轰鸣火箭",
+        "start": 28,
+        "end": 32,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "X-33",
+        "start": 270,
+        "end": 274,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 22,
+        "text": "X-34",
+        "start": 303,
+        "end": 307,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "GPSIIIF卫星",
+        "start": 46,
+        "end": 55,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 23,
+        "text": "GPSIIIF卫星",
+        "start": 25,
+        "end": 34,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 24,
+        "text": "锡拉库斯III",
+        "start": 198,
+        "end": 205,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 25,
+        "text": "质子火箭",
+        "start": 475,
+        "end": 479,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 25,
+        "text": "质子号火箭",
+        "start": 225,
+        "end": 230,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 25,
+        "text": "质子号运载火箭",
+        "start": 175,
+        "end": 182,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 25,
+        "text": "质子火箭",
+        "start": 429,
+        "end": 433,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 25,
+        "text": "质子号火箭",
+        "start": 313,
+        "end": 318,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 25,
+        "text": "质子号火箭",
+        "start": 89,
+        "end": 94,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "RADARSAT星座",
+        "start": 355,
+        "end": 365,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 26,
+        "text": "RADARSAT星座",
+        "start": 374,
+        "end": 384,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 28,
+        "text": "半人马座IV运载火箭",
+        "start": 111,
+        "end": 121,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 28,
+        "text": "大力神V",
+        "start": 337,
+        "end": 341,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 29,
+        "text": "信使号三级运载火箭",
+        "start": 32,
+        "end": 41,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 31,
+        "text": "DMSP卫星",
+        "start": 256,
+        "end": 262,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 32,
+        "text": "MinotaurIV火箭",
+        "start": 272,
+        "end": 284,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 33,
+        "text": "SL-8宇宙卫星运载火箭",
+        "start": 215,
+        "end": 227,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 35,
+        "text": "SBSS",
+        "start": 209,
+        "end": 213,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 35,
+        "text": "米诺陶-4火箭",
+        "start": 316,
+        "end": 323,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 35,
+        "text": "SBSS卫星",
+        "start": 106,
+        "end": 112,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 36,
+        "text": "德尔它-4火箭",
+        "start": 33,
+        "end": 40,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 36,
+        "text": "德尔它-4火箭",
+        "start": 322,
+        "end": 329,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 37,
+        "text": "宇宙神-5火箭",
+        "start": 347,
+        "end": 354,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 37,
+        "text": "德尔它-4火箭",
+        "start": 355,
+        "end": 362,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 38,
+        "text": "GPSIII",
+        "start": 213,
+        "end": 219,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 38,
+        "text": "猎鹰火箭",
+        "start": 19,
+        "end": 23,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 39,
+        "text": "德尔它火箭",
+        "start": 263,
+        "end": 268,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 39,
+        "text": "宇宙神-5火箭",
+        "start": 54,
+        "end": 61,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 39,
+        "text": "宇宙神-5火箭",
+        "start": 8,
+        "end": 15,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 40,
+        "text": "GLONASS卫星",
+        "start": 328,
+        "end": 337,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 41,
+        "text": "德尔它2火箭",
+        "start": 8,
+        "end": 14,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "挑战者号",
+        "start": 231,
+        "end": 235,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 42,
+        "text": "挑战者号航天飞机",
+        "start": 203,
+        "end": 211,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 43,
+        "text": "奋进号",
+        "start": 86,
+        "end": 89,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 44,
+        "text": "格波音德尔它-2型火箭",
+        "start": 11,
+        "end": 22,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 45,
+        "text": "德尔它II火箭",
+        "start": 44,
+        "end": 51,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 45,
+        "text": "德尔它II7420-10",
+        "start": 232,
+        "end": 244,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "DeltaIVM+运载火箭",
+        "start": 222,
+        "end": 235,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "DeltaIV系列运载火箭",
+        "start": 242,
+        "end": 255,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "DeltaIVM+运载火箭",
+        "start": 80,
+        "end": 93,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 46,
+        "text": "DeltaIV运载火箭",
+        "start": 22,
+        "end": 33,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 47,
+        "text": "OG2星座",
+        "start": 237,
+        "end": 242,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 47,
+        "text": "猎鹰-9",
+        "start": 97,
+        "end": 101,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 49,
+        "text": "GPS空间飞行器",
+        "start": 175,
+        "end": 183,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 49,
+        "text": "GPSIII空间飞行器",
+        "start": 280,
+        "end": 291,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "北斗卫星",
+        "start": 302,
+        "end": 306,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "北斗一号",
+        "start": 62,
+        "end": 66,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "北斗三号",
+        "start": 225,
+        "end": 229,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "北斗三号",
+        "start": 365,
+        "end": 369,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "北斗二号",
+        "start": 74,
+        "end": 78,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "北斗一号",
+        "start": 327,
+        "end": 331,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "北斗二号",
+        "start": 345,
+        "end": 349,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 50,
+        "text": "北斗三号",
+        "start": 91,
+        "end": 95,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "沙维特火箭",
+        "start": 287,
+        "end": 292,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 51,
+        "text": "沙维特火箭",
+        "start": 251,
+        "end": 256,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "GPSIIR-M",
+        "start": 89,
+        "end": 97,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "GPS-IIR卫星",
+        "start": 305,
+        "end": 314,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 52,
+        "text": "GPS-IIR-M卫星",
+        "start": 352,
+        "end": 363,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 53,
+        "text": "Navstar全球定位卫星",
+        "start": 32,
+        "end": 45,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 54,
+        "text": "Pegasus火箭",
+        "start": 68,
+        "end": 77,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 55,
+        "text": "好奇号火星探测器",
+        "start": 252,
+        "end": 260,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "长征系列运载火箭",
+        "start": 326,
+        "end": 334,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 56,
+        "text": "长征三号乙运载火箭",
+        "start": 24,
+        "end": 33,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "GPS3卫星",
+        "start": 337,
+        "end": 343,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "GPS3卫星",
+        "start": 272,
+        "end": 278,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "GPS3卫星",
+        "start": 108,
+        "end": 114,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 57,
+        "text": "GPS3卫星",
+        "start": 74,
+        "end": 80,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 58,
+        "text": "LRIP-1",
+        "start": 60,
+        "end": 66,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "猎鹰重型火箭",
+        "start": 318,
+        "end": 324,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "猎鹰-9火箭",
+        "start": 45,
+        "end": 51,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "猎鹰-9",
+        "start": 313,
+        "end": 317,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "猎鹰重型火箭",
+        "start": 52,
+        "end": 58,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 59,
+        "text": "OSP-3",
+        "start": 373,
+        "end": 378,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 61,
+        "text": "长征-2D火箭",
+        "start": 418,
+        "end": 425,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 62,
+        "text": "休斯SPACEWAY卫星",
+        "start": 73,
+        "end": 85,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 62,
+        "text": "SPACEWAY",
+        "start": 157,
+        "end": 165,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 62,
+        "text": "SPACEWAY卫星",
+        "start": 145,
+        "end": 155,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 63,
+        "text": "GPSIIF",
+        "start": 222,
+        "end": 228,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 63,
+        "text": "GPSIIF卫星",
+        "start": 31,
+        "end": 39,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 63,
+        "text": "GPSIIF卫星",
+        "start": 142,
+        "end": 150,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 63,
+        "text": "GPSIIF卫星",
+        "start": 291,
+        "end": 299,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "猎鹰1",
+        "start": 201,
+        "end": 204,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "猎鹰1火箭",
+        "start": 109,
+        "end": 114,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "猎鹰1",
+        "start": 245,
+        "end": 248,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "猎鹰9",
+        "start": 227,
+        "end": 230,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "猎鹰1火箭",
+        "start": 14,
+        "end": 19,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "猎鹰5",
+        "start": 223,
+        "end": 226,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 64,
+        "text": "猎鹰1火箭",
+        "start": 36,
+        "end": 41,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 66,
+        "text": "太阳神34D发射火箭",
+        "start": 300,
+        "end": 310,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 67,
+        "text": "GPSBlockII",
+        "start": 79,
+        "end": 89,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 68,
+        "text": "Lotos-S",
+        "start": 232,
+        "end": 239,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 68,
+        "text": "Pion卫星",
+        "start": 188,
+        "end": 194,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 68,
+        "text": "Sputnik",
+        "start": 31,
+        "end": 38,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 70,
+        "text": "能源号运载火箭",
+        "start": 465,
+        "end": 472,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 72,
+        "text": "德尔它2火箭",
+        "start": 91,
+        "end": 97,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 72,
+        "text": "德尔它2火箭",
+        "start": 382,
+        "end": 388,
+        "type": "装甲车辆"
+    },
+    {
+        "current_task_id": 1,
+        "test_task_id": 1,
+        "sample_id": 72,
+        "text": "凤凰着陆器",
+        "start": 160,
+        "end": 165,
+        "type": "装甲车辆"
+    }
+]
