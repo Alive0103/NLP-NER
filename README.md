@@ -122,6 +122,8 @@
 
 相关论文细节正在撰写，会同步更新，详情可移步的[我的博客](https://alive0103.github.io/)
 
+新人第一次尝试相关领域，还有众多不足之处，感谢各路大神予以指导。
+
 觉得有用的话点个Star不迷路~
 
 ![img](https://github.com/Alive0103/XDU-CS-lab/blob/main/img/%E8%A1%A8%E6%83%851.jpg)
